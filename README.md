@@ -1,3 +1,5 @@
+# Using NLP to Categorize Academic Texts By Readability
+
 ### The Problem
 
 Teachers, especially science and social studies teachers, are always looking for timely, grade appropriate texts for their students. Assessing the academic rigor and readability of a text can be a difficult task for teachers, despite being absolutely essential for student learning and engagement. While expensive sites like NEWSELA exist, their text corporas are often limited in their scope.
